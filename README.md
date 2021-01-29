@@ -52,4 +52,4 @@ cd ../2_recover_lineage/
 python get_ncbi_taxonomy.py
 ```
 
-Open the tab delimited file produced called full_ranks.txt in MS Excel. NOTE: if you give it something that does not exist in NCBI taxonomy database, you won't get any lineage reported back.  It will show as <not present>.  The NCBI taxonomy database knows how to deal with synonyms.
+Open the tab delimited file produced called full_ranks.txt in MS Excel. NOTE: if you give it something that does not exist in NCBI taxonomy database, you won't get any lineage reported back.  It will show as not present.  The NCBI taxonomy database knows how to deal with synonyms.
