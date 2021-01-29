@@ -7,7 +7,7 @@ The script uses bash, python3, the ete3 library, and a downloaded copy of the NC
 
 ---------------------------------------------
 
-###SETTING IT UP
+## SETTING IT UP
 
 Download and install miniconda3, a software package manager
 https://docs.conda.io/en/latest/miniconda.html
@@ -20,7 +20,7 @@ conda install -c etetoolkit ete3
 ```
 ---------------------------------------------
 
-###EXECUTE
+## EXECUTE
 
 Make sure you are inside the ete3 conda environment
 ```
